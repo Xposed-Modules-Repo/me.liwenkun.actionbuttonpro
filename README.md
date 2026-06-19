@@ -1,7 +1,7 @@
 # ActionButtonPro (一加 15 快捷键自定义 Xposed 模块)
 
 [![GitHub license](https://img.shields.io/github/license/liwenkun/ActionButtonPro)](LICENSE.txt)
-[![Platform](https://img.shields.io/badge/Platform-Android%2015%20%2F%20ColorOS%2016-orange.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Android%2016%20%2F%20ColorOS%2016-orange.svg)](#)
 
 **快捷键 Pro (ActionButtonPro)** 是一款专为 **一加 15 (OnePlus 15) ColorOS 16** 打造的物理快捷键（Action Button）深度定制工具。因为快捷键比较特殊，一般的按键映射工具要么监听不到该快捷键，要么面临进程被杀和重启后熄火的问题。该模块通过在系统进程对快捷键的按键事件进行拦截与重定向，不用保活 app 也能稳定运行。
 
